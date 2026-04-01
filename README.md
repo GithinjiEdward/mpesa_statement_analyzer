@@ -1,6 +1,6 @@
-# M-PESA Financial Analyzer 
+# Munward Consulting MPESA Analyzer 
 
-A Streamlit-based financial analysis app for password-protected M-PESA statements.
+A financial analysis application developed by **Munward Consulting** for analyzing M-PESA statements, cash flow, and affordability scenarios.
 
 ## Overview
 This project helps users:
@@ -57,6 +57,10 @@ streamlit run app.py
 
 ## Deployment
 This app can be deployed on Streamlit Community Cloud using the GitHub repository.
+
+
+## **About Munward Consulting**
+Munward Consulting provides integrated solutions in HR, IT, and financial advisory, helping organizations improve operational efficiency, compliance, and decision-making.
 
 ##Author
 Edward Githinji
