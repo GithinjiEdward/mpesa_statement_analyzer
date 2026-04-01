@@ -8,7 +8,7 @@ import pdfplumber
 import plotly.express as px
 
 st.set_page_config(
-    page_title="M-PESA Financial Analyzer",
+    page_title="Munward Consulting | MPESA Analyzer",
     page_icon="📊📈",
     layout="wide"
 )
@@ -34,7 +34,8 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("📊📈 M-PESA Financial Analyzer")
+st.title("📊📈 Munward Consulting MPESA Analyzer")
+st.markdown("**Powered by Munward Consulting Partners**")
 st.caption("Upload a password-protected M-PESA statement, analyze transactions, visualize trends, and test repayment ability.")
 
 
