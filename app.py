@@ -9,7 +9,7 @@ import plotly.express as px
 
 st.set_page_config(
     page_title="Munward Consulting | MPESA Analyzer",
-    page_icon="📊📈",
+    page_icon="logo.png",
     layout="wide"
 )
 
