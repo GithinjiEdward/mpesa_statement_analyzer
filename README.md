@@ -2,6 +2,9 @@
 
 A financial analysis application developed by **Munward Consulting** for analyzing M-PESA statements, cash flow, and affordability scenarios.
 
+## Live Demo
+(https://munwardconsulting-mpesa-analyzer.streamlit.app/)
+
 ## Overview
 This project helps users:
 - Upload and unlock password-protected M-PESA PDF statements
