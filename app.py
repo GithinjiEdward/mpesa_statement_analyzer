@@ -35,7 +35,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("📊📈 Munward Consulting MPESA Analyzer")
-st.markdown("**Powered by Munward Consulting Partners**")
+st.markdown("**Powered by Munward Consulting Partners...https://munwardconsulting.co.ke/**")
 st.caption("Upload a password-protected M-PESA statement, analyze transactions, visualize trends, and test repayment ability.")
 
 
