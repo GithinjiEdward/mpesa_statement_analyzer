@@ -12,8 +12,6 @@ This project helps users:
 - Analyze money in, money out, balances, and transaction patterns
 - Detect recurring payments
 - Visualize transaction trends
-- Simulate hire purchase affordability
-- Optimize loan affordability based on cash flow and expense reduction options
 - Export filtered analysis to Excel
 
 ## Features
@@ -22,8 +20,6 @@ This project helps users:
 - Overview dashboard with charts and summaries
 - Transaction-level filtering
 - Recurring payment analysis
-- Hire Purchase Simulator
-- Loan Optimizer
 - Excel export of filtered analysis
 
 ## Tech Stack
@@ -56,7 +52,7 @@ streamlit run app.py
 2. Upload your M-PESA PDF statement
 3. Enter the PDF password
 4. Process the statement
-5. Explore the dashboard, recurring payments, hire purchase simulation, and loan optimization.
+5. Explore the dashboard, and recurring payments.
 
 ## Deployment
 This app can be deployed on Streamlit Community Cloud using the GitHub repository.
